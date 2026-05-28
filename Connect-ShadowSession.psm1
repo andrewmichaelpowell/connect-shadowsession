@@ -1,7 +1,5 @@
-# ++++++++++++++++++++++++++++++++++++
-# +  Connect-ShadowSession           +
-# +  github.com/andrewmichaelpowell  +
-# ++++++++++++++++++++++++++++++++++++
+# Get-SystemInfo
+# github.com/andrewmichaelpowell
 
 Function Connect-ShadowSession{
   Param(
