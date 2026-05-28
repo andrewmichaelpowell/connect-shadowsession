@@ -1,4 +1,4 @@
-# Get-SystemInfo
+# Connect-ShadowSession
 # github.com/andrewmichaelpowell
 
 Function Connect-ShadowSession{
